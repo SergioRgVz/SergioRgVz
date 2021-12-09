@@ -25,11 +25,6 @@ My name is Sergio Rodríguez Vázquez and I'm a software developer. I'm from Spa
 <a href="https://wakatime.com/@SergioRgVz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SergioRgVz" />
  </a>
- 
- 
-[![SergioRgVz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergioRgVz)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
