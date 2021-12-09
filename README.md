@@ -31,5 +31,10 @@ Here are some ideas to get you started:
  TECHNOLOGIES AND TOOLS
  
  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+ 
+ ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+ ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
 ?style=flat&logo=appveyor
