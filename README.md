@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
  TECHNOLOGIES AND TOOLS
  
- ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=#A8B9CC&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
 
 ?style=flat&logo=appveyor
