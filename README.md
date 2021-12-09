@@ -20,6 +20,24 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRgVz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) ![SergioRgVz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRgVz&show_icons=true&theme=cobalt) 
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+<a href="https://github.com/SergioRgVz/SergioRgVz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRgVz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/SergioRgVz/SergioRgVz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioRgVz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SergioRgVz's GitHub Stats" />
+</a>
+
+<a href="https://github.com/SergioRgVz/Netflix-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/SergioRgVz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 [![SergioRgVz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergioRgVz)](https://github.com/anuraghazra/github-readme-stats)
 
 
