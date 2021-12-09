@@ -2,8 +2,12 @@
 
 My name is Sergio Rodríguez Vázquez and I'm a software developer. I'm from Spain, living in Cádiz and currently looking for work. You can find me on [![LinkedIn][3.2]][3].
 
-### Stats
+## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a) <!--- PHP--> ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) <!--- Python--> ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) <!--- Java--> ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) <!--- Laravel--> ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+
+## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRgVz&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) ![SergioRgVz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioRgVz&show_icons=true&theme=cobalt) 
 
 
@@ -25,7 +29,5 @@ My name is Sergio Rodríguez Vázquez and I'm a software developer. I'm from Spa
 
 
 
- TECHNOLOGIES AND TOOLS
- 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a) <!--- PHP--> ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) <!--- Python--> ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) <!--- Java--> ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) <!--- Laravel--> ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
 
