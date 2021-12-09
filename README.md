@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sergio Rodríguez Vázquez and I'm a software developer. I'm from Spain, living in Cádiz and currently looking for work. You can find me on [Linkedin](https://www.linkedin.com/in/sergiorodriguezvazquez/).
+My name is Sergio Rodríguez Vázquez and I'm a software developer. I'm from Spain, living in Cádiz and currently looking for work. You can find me on [![LinkedIn].
 
 ## 🔧 Technologies & Tools
 
